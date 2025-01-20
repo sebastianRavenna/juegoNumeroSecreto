@@ -26,5 +26,10 @@ El objetivo del juego es adivinar un número secreto generado aleatoriamente den
 3. Sigue las pistas para acertar el número secreto antes de agotar los intentos.
 4. Si ganas o pierdes, puedes reiniciar el juego con el botón **Nuevo juego**.
 
+
+## Capturas de pantalla
+- Pantalla Principal
+![alt text](image.png)
+
 ## Créditos
 Desarrollado como parte del curso de Principios de Programación de Alura Latam en colaboración con el programa Oracle Next Education (ONE).
